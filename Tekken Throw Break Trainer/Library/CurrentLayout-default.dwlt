@@ -343,15 +343,21 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Throws
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Austin\Documents\RPI\TekkenThrowBreakTrainer\Tekken
+  m_LastProjectPath: C:\Users\Sean\Desktop\College Files\Personal Projects\TekkenThrowBreakTrainer\Tekken
     Throw Break Trainer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 622d0000
     m_LastClickedID: 11618
     m_ExpandedIDs: 00000000342d000000ca9a3b
+=======
+    m_SelectedIDs: 14320000
+    m_LastClickedID: 12820
+    m_ExpandedIDs: 00000000e631000000ca9a3b
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +385,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000342d0000
+=======
+    m_ExpandedIDs: 00000000e6310000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,7 +512,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: 6cfbffff
+=======
+      m_ExpandedIDs: ccfaffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
