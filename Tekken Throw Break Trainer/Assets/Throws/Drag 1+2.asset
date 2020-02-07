@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05d7df6cd68acd94a943a898c1077328, type: 3}
   m_Name: Drag 1+2
   m_EditorClassIdentifier: 
-  move_name: 
-  break_window: 0
-  start_frame: 0
-  end_frame: 0
+  move_name: Blizzard Rush
+  total_frames: 22
+  startup_frames: 12
+  active_frames: 20
+  recovery_frames: 0
+  break_command: 3
+  video_file: 

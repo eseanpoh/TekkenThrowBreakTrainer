@@ -8,9 +8,12 @@ public class ThrowData : ScriptableObject
 {
     [Header("Data")]
     public string move_name;
-    public int break_window;
-    public int start_frame;
-    public int end_frame;
+    public int total_frames; // Total frames
+    public int startup_frames; // Startup frames
+    public int active_frames; // Breakable Frames
+    public int recovery_frames; // Might not need this as the throw break trainer will never miss a throw
+    public int break_command;
+    public string video_file;
 
     //[Tooltip("I have no clue if we're actually going to use this")]
     //public Sprite bucketSprite;
